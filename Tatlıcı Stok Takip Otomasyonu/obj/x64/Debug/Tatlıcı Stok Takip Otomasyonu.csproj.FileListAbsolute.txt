@@ -1,0 +1,22 @@
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\bin\x64\Debug\Tatlıcı Stok Takip Otomasyonu.exe.config
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\bin\x64\Debug\Tatlıcı Stok Takip Otomasyonu.exe
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\bin\x64\Debug\Tatlıcı Stok Takip Otomasyonu.pdb
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.Form1.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı Stok Takip Otomasyonu.exe
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı Stok Takip Otomasyonu.pdb
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\bin\x64\Debug\StokTakip.accdb
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.anamenu.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.yardim.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.kategori.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.urunTuru.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.urunEkle.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.kullaniciEkle.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.musteriEkle.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.menuekle.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.menusil.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.menuduzenle.resources
+C:\Users\90553\Desktop\Görsel Programlama\Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu\obj\x64\Debug\Tatlıcı_Stok_Takip_Otomasyonu.aramayap.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tatlıcı Stok Takip Otomasyonu", "Tatlıcı Stok Takip Otomasyonu\Tatlıcı Stok Takip Otomasyonu.csproj", "{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Debug|x64.ActiveCfg = Debug|x64
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Debug|x64.Build.0 = Debug|x64
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Release|x64.ActiveCfg = Release|x64
+		{AE69A2A9-FCB2-47BF-9C34-9E02E4DDA237}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C97CC60-3449-45E9-B7D8-5F65ED4AD10E}
+	EndGlobalSection
+EndGlobal
